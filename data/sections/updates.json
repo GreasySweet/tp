@@ -1,0 +1,253 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "es": {
+                "title_short": "정",
+                "title_short_nav": "정",
+                "title_long_prefix": "정",
+                "title_long": "{{정}}"
+            },
+            "fr": {
+                "title_short": "정",
+                "title_short_nav": "정",
+                "title_long_prefix": "정",
+                "title_long": "{정}}"
+            },
+            "ko": {
+                "title_short": "정",
+                "title_short_nav": "정",
+                "title_long_prefix": "정",
+                "title_long": "{{정}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "faIcon": "fa-solid fa-bug-slash",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "30+",
+                            "text": "Bugs Reported"
+                        },
+                        "es": {
+                            "text": "정"
+                        },
+                        "fr": {
+                            "text": "정"
+                        },
+                        "ko": {
+                            "text": "정"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "faIcon": "fa-solid fa-money-bill-wave",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "5",
+                            "text": "Bounties Recieved"
+                        },
+                        "es": {
+                            "text": "정"
+                        },
+                        "fr": {
+                            "text": "정"
+                        },
+                        "ko": {
+                            "text": "정"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-toolbox",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "4",
+                            "text": "Tools Made"
+                        },
+                        "es": {
+                            "text": "정"
+                        },
+                        "fr": {
+                            "text": "정"
+                        },
+                        "ko": {
+                            "text": "정"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "faIcon": "fa-solid fa-diagram-project",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "TBA",
+                            "text": "Open-source projects"
+                        },
+                        "es": {
+                            "text": "정"
+                        },
+                        "fr": {
+                            "text": "정"
+                        },
+                        "ko": {
+                            "text": "정"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-teeth-open",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "741",
+                            "text": "Hairs pulled"
+                        },
+                        "es": {
+                            "text": "정"
+                        },
+                        "fr": {
+                            "text": "정"
+                        },
+                        "ko": {
+                            "text": "정"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "20+",
+                            "text": "Websites Secured"
+                        },
+                        "es": {
+                            "text": "정"
+                        },
+                        "fr": {
+                            "text": "정"
+                        },
+                        "ko": {
+                            "text": "정"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": null,
+                    "faIcon": "fa-solid fa-gun",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "constant",
+                            "text": "pain"
+                        },
+                        "es": {
+                            "title": "정",
+                            "text": "정"
+                        },
+                        "fr": {
+                            "title": "정",
+                            "text": "정"
+                        },
+                        "ko": {
+                            "title": "정",
+                            "text": "정"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "{{Updates}}" },
+                "es": { "title": "{{정}}" },
+                "fr": { "title": "{{정}}" },
+                "ko": { "title": "{{뉴}}" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2025, "month": 9},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Goals}}",
+                            "province": "LA",
+                            "country": "USA",
+                            "institution": "",
+                            "text": "Currently working part-time as a bug bounty hunter, dedicating as much time as possible to strengthening my skills and building a track record of real-world findings. Each report and vulnerability adds to my growing experience, helping me sharpen my methodology and expand my toolkit. My goal is to leverage this hands-on practice to transition into a full-time penetration tester role. Always learning, always improving, and excited for the opportunities ahead!"
+                        },
+                        "es": {
+                            "title": "{{정}}",
+                            "province": "정",
+                            "country": "정",
+                            "institution": "",
+                            "text": "정"
+                        },
+                        "fr": {
+                            "title": "{{정}}",
+                            "province": "정",
+                            "country": "정",
+                            "institution": "",
+                            "text": "정"
+                        },
+                        "ko": {
+                            "title": "{{정}}",
+                            "province": "정",
+                            "country": "정",
+                            "institution": "",
+                            "text": "정"
+                        }
+                    }
+                }
+                
+            ]
+        }
+    ]
+}
