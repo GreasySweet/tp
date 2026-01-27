@@ -86,15 +86,15 @@
                     "img": "",
                     "faIcon": "fa-solid fa-book",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2025, "month": 7},
-                    "dateEnd": {"year": 2026, "month": 1},
+                    "dateStart": {"year": 2026, "month": 7},
+                    "dateEnd": {"year": 2027, "month": 1},
                     "locales": {
                         "en": {
                             "title": "{{eJPT}}",
                             "province": "",
                             "country": "US",
                             "institution": "INE",
-                            "text": "Hope to have this certification before 2026.",
+                            "text": "Hope to have this certification before 2027.",
                             "list": [
                                 "WIP"
                                 
