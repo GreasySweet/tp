@@ -36,30 +36,30 @@
                 "en": {
                     "category_all": "All",
                     "category_reports": "Reports",
-                    "category_profiles": "Profiles",
-                    "category_tools": "Tools"
+                    "category_web": "Web",
+                    "category_utilities": "Utilities"
                 },
                 "es": {
                     "category_all": "모",
-                    "category_reports": "모",
-                    "category_profiles": "모",
-                    "category_tools": "모"
+                    "category_apps": "모",
+                    "category_web": "모",
+                    "category_utilities": "모"
                 },
                 "fr": {
                     "category_all": "모",
-                    "category_reports": "모",
-                    "category_profiles": "모",
-                    "category_tools": "모"
+                    "category_apps": "모",
+                    "category_web": "모",
+                    "category_utilities": "모"
                 },
                 "ko": {
                     "category_all": "모",
-                    "category_reports": "앱",
-                    "category_profiles": "웹",
-                    "category_tools": "유"
+                    "category_apps": "앱",
+                    "category_web": "웹",
+                    "category_utilities": "유"
                 }
             },
             "settings": {
-                "categorize_by": ["category_reports", "category_profiles", "category_tools"],
+                "categorize_by": ["category_reports", "category_web", "category_utilities"],
                 "order_items_by": "id",
                 "order_items_sort": "asc"
             },
@@ -67,9 +67,9 @@
                 {
                     "id": 1,
                     "categoryId": "category_reports",
-                    "img": "/images/pictures/5dun.ico",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-truck-fast",
+                    "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
                             {"href": "https://5thdunstablescouts.org.uk/acknowledgements.php", "tooltipString": "", "faIcon": "fa-solid fa-link"},
@@ -87,42 +87,6 @@
                             "title": "5thDunstableScouts",
                             "text": "Recognized in the organization's {{Hall of Fame}} for responsibly discovering and reporting a Cross-Site Scripting (XSS) vulnerability.",
                             "tags": ["OpenBugBounty.org", "XSS"]
-                        },
-                        "es": {
-                            "title": "랫",
-                            "text": "랫",
-                            "tags": ["랫"]
-                        },
-                        "fr": {
-                            "title": "QuickDrop",
-                            "text": "랫",
-                            "tags": ["랫"]
-                        },
-                        "ko": {
-                            "title": "QuickDrop",
-                            "text": "랫",
-                            "tags": ["랫"]
-                        }
-                    }
-                },
-                {
-                    "id": 2,
-                    "categoryId": "category_profiles",
-                    "img": "/images/svg/obb.svg",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "preview": {
-                        "links": [
-                            {"href": "https://www.openbugbounty.org/researchers/GreasySweet/", "tooltipString": "", "faIcon": "fa-solid fa-link"}
-                        ],
-                        "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "OpenBugBounty",
-                            "text": "Mainly work done for fun in my free time.",
-                            "tags": ["OpenBugBounty"]
                         },
                         "es": {
                             "title": "랫",

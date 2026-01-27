@@ -42,7 +42,7 @@
                     "id": 1,
                     "img": null,
                     "faIcon": "fa-solid fa-bug-slash",
-                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
+                    "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
                             "title": "30+",
@@ -63,10 +63,10 @@
                     "id": 2,
                     "img": null,
                     "faIcon": "fa-solid fa-money-bill-wave",
-                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
+                    "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "7",
+                            "title": "5",
                             "text": "Bounties Recieved"
                         },
                         "es": {
@@ -84,7 +84,7 @@
                     "id": 3,
                     "img": null,
                     "faIcon": "fa-solid fa-toolbox",
-                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
+                    "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
                             "title": "4",
@@ -105,7 +105,7 @@
                     "id": 4,
                     "img": null,
                     "faIcon": "fa-solid fa-diagram-project",
-                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
+                    "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
                             "title": "TBA",
@@ -125,12 +125,12 @@
                 {
                     "id": 5,
                     "img": null,
-                    "faIcon": "fa-solid fa-eye",
-                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
+                    "faIcon": "fa-solid fa-teeth-open",
+                    "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "8+",
-                            "text": "Bug Types"
+                            "title": "741",
+                            "text": "Hairs pulled"
                         },
                         "es": {
                             "text": "정"
@@ -147,7 +147,7 @@
                     "id": 6,
                     "img": null,
                     "faIcon": "fa-solid fa-laptop-code",
-                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
+                    "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
                             "title": "20+",
@@ -167,12 +167,12 @@
                 {
                     "id": 7,
                     "img": null,
-                    "faIcon": "fa-solid fa-teeth-open",
-                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
+                    "faIcon": "fa-solid fa-gun",
+                    "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Constant",
-                            "text": "Pain"
+                            "title": "constant",
+                            "text": "pain"
                         },
                         "es": {
                             "title": "정",

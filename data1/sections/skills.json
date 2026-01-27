@@ -48,7 +48,7 @@
                     "locales": {
                         "en": {
                             "title": "{{Web}} Security",
-                            "text": "I specialize in identifying and securing vulnerabilities across web applications."
+                            "text": "I can bring your best ideas into life and make them a reality!"
                         },
                         "es": {
                             "title": "{{다}}",
@@ -74,7 +74,7 @@
                     "locales": {
                         "en": {
                             "title": "{{Cloud}} Security",
-                            "text": "I assess and protect cloud environments to prevent data exposure and misconfigurations."
+                            "text": "I can handle your data effectively and efficiently!"
                         },
                         "es": {
                             "title": "{{다}}",
@@ -100,7 +100,7 @@
                     "locales": {
                         "en": {
                             "title": "{{App}} Security",
-                            "text": "I uncover flaws in mobile applications to enhance their overall resilience."
+                            "text": "I can make creative and innovative apps!"
                         },
                         "es": {
                             "title": "{{다}}",
@@ -126,7 +126,7 @@
                     "locales": {
                         "en": {
                             "title": "{{API}} Security",
-                            "text": "I test and secure APIs to prevent injection, authorization, and data leakage risks."
+                            "text": "I can build API services!"
                         },
                         "es": {
                             "title": "{{다}}",
@@ -152,7 +152,7 @@
                     "locales": {
                         "en": {
                             "title": "{{In-Depth}} Reporting",
-                            "text": "I deliver clear, detailed reports that help teams understand and fix vulnerabilities effectively."
+                            "text": "Security is my middle name!"
                         },
                         "es": {
                             "title": "{{다}}",
@@ -245,7 +245,7 @@
                     "percentage": 10,
                     "locales": {
                         "en": {
-                            "title": "SSTI Labs",
+                            "title": "Server-side template injection Labs",
                             "text": "0/7",
                             "level": ""
                         },
@@ -319,7 +319,7 @@
                         "en": {
                             "title": "Business logic vulnerabilities Labs",
                             "text": "0/12",
-                            "level": ""
+                            "level": "1"
                         },
                         "es": {
                             "text": "초"
@@ -360,13 +360,13 @@
                     "id": 1,
                     "img": "",
                     "faIcon": "fa-brands fa-html5",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_lan",
                     
                     "locales": {
                         "en": {
-                            "title": "SQL"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -383,14 +383,14 @@
                 {
                     "id": 2,
                     "img": "",
-                    "faIcon": "fa-solid fa-syringe",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_bug",
                     
                     "locales": {
                         "en": {
-                            "title": "SQLi"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -407,14 +407,14 @@
                 {
                     "id": 3,
                     "img": "",
-                    "faIcon": "fa-solid fa-sitemap",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_tool",
                     
                     "locales": {
                         "en": {
-                            "title": "Subfinder"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -432,14 +432,14 @@
                 {
                     "id": 4,
                     "img": "",
-                    "faIcon": "fa-brands fa-js",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_lan",
                     
                     "locales": {
                         "en": {
-                            "title": "Javascript"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -456,14 +456,14 @@
                 {
                     "id": 5,
                     "img": "",
-                    "faIcon": "fa-solid fa-bug",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_bug",
                     
                     "locales": {
                         "en": {
-                            "title": "XSS"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -480,14 +480,14 @@
                 {
                     "id": 6,
                     "img": "",
-                    "faIcon": "fa-solid fa-sitemap",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_tool",
                     
                     "locales": {
                         "en": {
-                            "title": "Assetfinder"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -505,14 +505,14 @@
                 {
                     "id": 7,
                     "img": "",
-                    "faIcon": "fa-brands fa-python",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_lan",
                     
                     "locales": {
                         "en": {
-                            "title": "Python"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -529,14 +529,14 @@
                 {
                     "id": 8,
                     "img": "",
-                    "faIcon": "fa-solid fa-bug",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_bug",
                     
                     "locales": {
                         "en": {
-                            "title": "CSRF"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -553,14 +553,14 @@
                 {
                     "id": 9,
                     "img": "",
-                    "faIcon": "fa-solid fa-atom",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_tool",
                     
                     "locales": {
                         "en": {
-                            "title": "Nuclei"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -578,14 +578,14 @@
                 {
                     "id": 10,
                     "img": "",
-                    "faIcon": "fa-brands fa-golang",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_lan",
                     
                     "locales": {
                         "en": {
-                            "title": "GO"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -602,14 +602,14 @@
                 {
                     "id": 11,
                     "img": "",
-                    "faIcon": "fa-solid fa-bug",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_bug",
                     
                     "locales": {
                         "en": {
-                            "title": "IDOR"
+                            "title": "MySQL"
                             
                         },
                         "es": {
@@ -626,302 +626,14 @@
                 {
                     "id": 12,
                     "img": "",
-                    "faIcon": "fa-solid fa-dragon",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2025, "month": 9},
                     "categoryId": "category_tool",
                     
                     "locales": {
                         "en": {
-                            "title": "Ghidra"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-sitemap",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Gau"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-code",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Custom Wayback"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-gears",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Httpx"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-gears",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Burpsuite"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-sitemap",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "FFUF"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-sitemap",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Dirb"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-file-image",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Custom Img Payloads"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-skull-crossbones",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Custom Payloads"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-skull-crossbones",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Custom Wordlists"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-brands fa-amazon",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "AWScli"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-gears",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_tool",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Nmap"
-                            
-                        },
-                        "es": {
-                            "text": "초"
-                        },
-                        "fr": {
-                            "text": "초"
-                        },
-                        "ko": {
-                            "text": "초"
-                        }
-                    }
-                },
-                {
-                    "id": 12,
-                    "img": "",
-                    "faIcon": "fa-solid fa-terminal",
-                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
-                    "categoryId": "category_lan",
-                    
-                    "locales": {
-                        "en": {
-                            "title": "Bash"
+                            "title": "MySQL"
                             
                         },
                         "es": {

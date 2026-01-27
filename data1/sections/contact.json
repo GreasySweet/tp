@@ -106,13 +106,24 @@
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-brands fa-telegram",
+                    "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
                     "label": "@GreasySweet",
-                    "link": {"href": "https://t.me/GreasySweet", "tooltipString": "open_website"},
+                    "link": {"href": "https://linkedin.com/in/GreasySweet", "tooltipString": "open_website"},
                     "locales": {
-                        "en": {"title": "Telegram"},
+                        "en": {"title": "LinkedIn"},
                         "ko": {"title": "링크드인"}
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-facebook",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@GreasySweet",
+                    "link": {"href": "https://facebook.com/profiles/", "tooltipString": "open_website"},
+                    "locales": {
+                        "en": {"title": "Facebook"},
+                        "ko": {"title": "요"}
                     }
                 },
                 {
@@ -124,6 +135,17 @@
                     "locales": {
                         "en": {"title": "Instagram"},
                         "ko": {"title": "요"}
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-tiktok",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@GreasySweet",
+                    "link": {"href": "https://tiktok.com/", "tooltipString": "open_website"},
+                    "locales": {
+                        "en": { "title": "TikTok" },
+                        "ko": { "title": "요" }
                     }
                 }
             ]
