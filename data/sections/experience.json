@@ -44,7 +44,7 @@
                     "faIcon": "fa-solid fa-ghost",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2025, "month": 4},
-                    "dateEnd": {"year": 2026, "month": 12},
+                    "dateEnd": {"year": 2027, "month": 12},
                     "locales": {
                         "en": {
                             "title": "{{Bug Bounty Hunter}}",
