@@ -19,7 +19,7 @@
 
     "templateSettings": {
         "animatedCursorEnabled": true,
-        "backgroundStyle": "static",
+        "backgroundStyle": "animated",
         "defaultLanguageId": "en",
         "defaultThemeId": "dark",
         "fullscreenEnabled": true,
