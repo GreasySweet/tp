@@ -76,7 +76,7 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/ree.svg",
+                    "img": "images/pictures/re.svg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
