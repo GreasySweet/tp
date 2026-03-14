@@ -66,7 +66,7 @@
                     "faIconColors": {"bg": "#d15a7c", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "7",
+                            "title": "8",
                             "text": "Bounties Recieved"
                         },
                         "es": {
@@ -221,7 +221,7 @@
                             "province": "LA",
                             "country": "USA",
                             "institution": "",
-                            "text": "Currently working part-time as a bug bounty hunter, dedicating as much time as possible to strengthening my skills and building a track record of real-world findings. Each report and vulnerability adds to my growing experience, helping me sharpen my methodology and expand my toolkit. My goal is to leverage this hands-on practice to transition into a full-time penetration tester role. Always learning, always improving, and excited for the opportunities ahead!"
+                            "text": "Currently working part time as a bug bounty hunter, dedicating as much time as possible to strengthening my skills and building a track record of real world findings. Each report and vulnerability adds to my growing experience, helping me sharpen my methodology and expand my toolkit. My goal is to leverage this hands on practice to transition into a full time penetration tester role. Always learning, always improving, and excited for the opportunities ahead!"
                         },
                         "es": {
                             "title": "{{정}}",

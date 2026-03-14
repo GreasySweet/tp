@@ -81,7 +81,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a security researcher and bug bounty hunter, focused on uncovering real-world vulnerabilities through ethical hacking and penetration testing. My work spans across web applications, APIs, and cloud assets, with findings including XSS, injection flaws, and sensitive data exposures.</p><p>I have hands-on experience with tools like Burp Suite, Nuclei, and custom-built scripts, along with strong proficiency in Python and JavaScript for automation and exploit development.</p><p>This background gives me the flexibility to approach targets creatively, adapt to diverse environments, and deliver actionable security insights.</p><p>I look forward to hearing from you about [[Private Programs]] or [[Job Opportunities]]</p>"
+                            "text": "<p>I’m a web security researcher and bug bounty hunter, focused on uncovering real world vulnerabilities through ethical hacking and penetration testing. My work spans across web applications, APIs, and cloud assets, with findings including XSS, injection flaws, and sensitive data exposures.</p><p>I have hands on experience with tools like Burp Suite, Metasploit, and custom-built scripts, along with the ability to create tools in Python and JavaScript for automation and exploit development.</p><p>This background gives me the flexibility to approach targets creatively, adapt to diverse environments, and deliver actionable security insights.</p><p>I look forward to hearing from you about [[Private Programs]] or [[Job Opportunities]]</p>"
 
                         },
                         "es": {
@@ -268,7 +268,7 @@
                     "locales": {
                         "en": {
                             "title": "{{Cross-site Scripting}}",
-                            "text": "25+"
+                            "text": "50+"
                         },
                         "es": {
 
@@ -290,7 +290,7 @@
                     "locales": {
                         "en": {
                             "title": "{{SQL Injection}}",
-                            "text": "1"
+                            "text": "2"
                         },
                         "es": {
                             "title": "{{기}}",
@@ -366,7 +366,7 @@
                     "locales": {
                         "en": {
                             "title": "{{Personally Identifiable Information}}",
-                            "text": "1"
+                            "text": "2"
                         },
                         "es": {
                             "title": "{{기}}",

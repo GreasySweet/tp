@@ -198,7 +198,7 @@
                     "locales": {
                         "en": {
                             "title": "SQL injection Labs",
-                            "text": "0/18",
+                            "text": "16/18",
                             "level": ""
                         },
                         "es": {
@@ -222,7 +222,7 @@
                     "locales": {
                         "en": {
                             "title": "Cross-site scripting Labs",
-                            "text": "0/30",
+                            "text": "17/30",
                             "level": ""
                         },
                         "es": {
@@ -246,7 +246,7 @@
                     "locales": {
                         "en": {
                             "title": "SSTI Labs",
-                            "text": "0/7",
+                            "text": "2/7",
                             "level": ""
                         },
                         "es": {
@@ -270,7 +270,7 @@
                     "locales": {
                         "en": {
                             "title": "Path traversal",
-                            "text": "0/6",
+                            "text": "6/6",
                             "level": ""
                         },
                         "es": {
@@ -294,7 +294,7 @@
                     "locales": {
                         "en": {
                             "title": "Authentication Labs",
-                            "text": "0/14",
+                            "text": "5/14",
                             "level": ""
                         },
                         "es": {
@@ -318,7 +318,7 @@
                     "locales": {
                         "en": {
                             "title": "Business logic vulnerabilities Labs",
-                            "text": "0/12",
+                            "text": "4/12",
                             "level": ""
                         },
                         "es": {
@@ -415,6 +415,30 @@
                     "locales": {
                         "en": {
                             "title": "Subfinder"
+                            
+                        },
+                        "es": {
+                            "text": "초"
+                        },
+                        "fr": {
+                            "text": "초"
+                        },
+                        "ko": {
+                            "text": "초"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-sitemap",
+                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "date": {"year": 2025, "month": 9},
+                    "categoryId": "category_tool",
+                    
+                    "locales": {
+                        "en": {
+                            "title": "Metasploit"
                             
                         },
                         "es": {
