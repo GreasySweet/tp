@@ -43,8 +43,8 @@
                     "img": "",
                     "faIcon": "fa-brands fa-youtube",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2014, "month": 1},
-                    "dateEnd": {"year": 2014, "month": 6},
+                    "dateStart": {"year": 2025, "month": 4},
+                    "dateEnd": {"year": 2026, "month": 12},
                     "locales": {
                         "en": {
                             "title": "{{Youtube}}",
@@ -149,7 +149,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-book",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2026, "month": 7},
+                    "dateStart": {"year": 2025, "month": 5},
                     "dateEnd": {"year": 2027, "month": 1},
                     "locales":  {
                         "en": {
@@ -175,6 +175,159 @@
                                 "CSRF",
                                 "Bug Bounty",
                                 "Web Application Testing"
+                            ]
+                        },
+                        "es": {
+                            "title": "{{발}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "발",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        },
+                        "fr": {
+                            "title": "{{발}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "발",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        },
+                        "ko": {
+                            "title": "{{박}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "[[딥]]",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-book",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 5},
+                    "dateEnd": {"year": 2027, "month": 1},
+                    "locales":  {
+                        "en": {
+                            "title": "{{Hack The Box}} Challenges & Academy",
+                            "province": "",
+                            "country": "US",
+                            "institution": "Hack The Box",
+                            "text": "Completed hands-on cybersecurity labs and challenge-based exercises through Hack The Box and Hack The Box Academy, focusing on penetration testing methodology, vulnerability discovery, and system exploitation.",
+                            "list": [
+                                "Completed Capture The Flag style challenges involving web exploitation, cryptography, and reverse engineering",
+                                "Practiced enumeration techniques for Linux and Windows targets using common penetration testing tools",
+                                "Performed privilege escalation through misconfigurations, weak permissions, and vulnerable services",
+                                "Developed skills in vulnerability identification, exploitation, and post exploitation workflows",
+                                "Applied tools such as Nmap, Burp Suite, Metasploit, and manual techniques for system compromise"
+                                
+
+                                
+                            ],
+                            "tags": [
+                                "Penetration Testing",
+                                "CTF",
+                                "Linux Privilege Escalation",
+                                "Windows Privilege Escalation",
+                                "Nmap",
+                                "Metasploit",
+                                "Enumeration",
+                                "Offensive Security"
+                            ]
+                        },
+                        "es": {
+                            "title": "{{발}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "발",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        },
+                        "fr": {
+                            "title": "{{발}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "발",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        },
+                        "ko": {
+                            "title": "{{박}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "[[딥]]",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-solid fa-book",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 5},
+                    "dateEnd": {"year": 2027, "month": 1},
+                    "locales":  {
+                        "en": {
+                            "title": "Independent Web Security Research",
+                            "province": "",
+                            "country": "US",
+                            "institution": "Self Directed Learning",
+                            "text": "Ongoing hands-on security research focused on identifying and responsibly disclosing vulnerabilities in real world web applications within authorized bug bounty and vulnerability disclosure programs.",
+                            "list": [
+                                "Performed manual web application testing on real world targets within permitted bug bounty scopes",
+                                "Practiced identifying vulnerabilities such as Cross Site Scripting (XSS), HTML injection, and sensitive data exposure",
+                                "Developed custom reconnaissance tooling to automate subdomain discovery, endpoint enumeration, and parameter collection",
+                                "Applied techniques such as HTTP request manipulation, parameter fuzzing, and source code analysis",
+                                "Used tools including Burp Suite, Nmap, Nuclei, and custom Python scripts for vulnerability discovery and testing",
+                                "Documented findings through clear vulnerability reports including reproduction steps, impact analysis, and proof of concept demonstrations"
+                                
+
+                                
+                            ],
+                            "tags": [
+                                "Bug Bounty",
+                                "Web Application Security",
+                                "Manual Testing",
+                                "Burp Suite",
+                                "Reconnaissance",
+                                "Vulnerability Research",
+                                "Python Automation",
+                                "Vulnerability Reporting"
                             ]
                         },
                         "es": {
