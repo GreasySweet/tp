@@ -103,19 +103,7 @@
                         "en": {"title": "E-mail"},
                         "ko": {"title": "이"}
                     }
-                },
-                {
-                    "id": 3,
-                    "faIcon": "fa-brands fa-telegram",
-                    "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@GreasySweet",
-                    "link": {"href": "https://t.me/GreasySweet", "tooltipString": "open_website"},
-                    "locales": {
-                        "en": {"title": "Telegram"},
-                        "ko": {"title": "링크드인"}
-                    }
                 }
-                
             ]
         }
     ]
