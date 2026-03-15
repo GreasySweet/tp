@@ -114,18 +114,8 @@
                         "en": {"title": "Telegram"},
                         "ko": {"title": "링크드인"}
                     }
-                },
-                {
-                    "id": 5,
-                    "faIcon": "fa-brands fa-instagram",
-                    "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@GreasySweetSec",
-                    "link": {"href": "https://instagram.com/GreasySweetSec", "tooltipString": "open_website"},
-                    "locales": {
-                        "en": {"title": "Instagram"},
-                        "ko": {"title": "요"}
-                    }
                 }
+                
             ]
         }
     ]
