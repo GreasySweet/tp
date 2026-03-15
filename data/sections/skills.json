@@ -433,7 +433,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-sitemap",
                     "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
+                    "date": {"year": 2025, "month": 12},
                     "categoryId": "category_tool",
                     
                     "locales": {
@@ -482,7 +482,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-bug",
                     "faIconColors": {"bg": "", "fill": "#d15a7c"},
-                    "date": {"year": 2025, "month": 9},
+                    "date": {"year": 2025, "month": 5},
                     "categoryId": "category_bug",
                     
                     "locales": {

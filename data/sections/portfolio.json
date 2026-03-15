@@ -74,8 +74,8 @@
                         "links": [
                             {"href": "https://5thdunstablescouts.org.uk/acknowledgements.php", "tooltipString": "", "faIcon": "fa-solid fa-link"},
                             {"href": "https://www.openbugbounty.org/reports/4255291/", "tooltipString": "", "faIcon": "fa-solid fa-bug"},
-                            {"href": "http://4255291.openbounty.org/mirror/", "tooltipString": "", "faIcon": "fa-solid fa-warning"},
-                            {"href": "/images/pictures/5dun.ico", "tooltipString": "", "faIcon": "fa-solid fa-warning"}
+                            {"href": "http://4255291.openbounty.org/mirror/", "tooltipString": "", "faIcon": "fa-solid fa-warning"}
+                            
                         ],
                         "screenshots": [ "images/pictures/5da.png"
 
