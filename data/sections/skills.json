@@ -502,6 +502,54 @@
                     }
                 },
                 {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-bug",
+                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "date": {"year": 2025, "month": 5},
+                    "categoryId": "category_bug",
+                    
+                    "locales": {
+                        "en": {
+                            "title": "PII"
+                            
+                        },
+                        "es": {
+                            "text": "초"
+                        },
+                        "fr": {
+                            "text": "초"
+                        },
+                        "ko": {
+                            "text": "초"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-bug",
+                    "faIconColors": {"bg": "", "fill": "#d15a7c"},
+                    "date": {"year": 2025, "month": 5},
+                    "categoryId": "category_bug",
+                    
+                    "locales": {
+                        "en": {
+                            "title": "Secret Exposure"
+                            
+                        },
+                        "es": {
+                            "text": "초"
+                        },
+                        "fr": {
+                            "text": "초"
+                        },
+                        "ko": {
+                            "text": "초"
+                        }
+                    }
+                },
+                {
                     "id": 6,
                     "img": "",
                     "faIcon": "fa-solid fa-sitemap",

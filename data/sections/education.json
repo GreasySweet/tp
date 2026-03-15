@@ -90,11 +90,74 @@
                     "dateEnd": {"year": 2027, "month": 1},
                     "locales": {
                         "en": {
+                            "title": "{{Security+}}",
+                            "province": "",
+                            "country": "US",
+                            "institution": "CompTIA",
+                            "text": "Aiming to have this certification before December 2026.",
+                            "list": [
+                                "WIP"
+                                
+                            ],
+                            "tags": [
+                                "WIP"
+                            ]
+                        },
+                        "es": {
+                            "title": "{{발}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "발",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        },
+                        "fr": {
+                            "title": "{{발}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "발",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        },
+                        "ko": {
+                            "title": "{{박}}",
+                            "province": "발",
+                            "country": "발",
+                            "institution": "발",
+                            "text": "[[딥]]",
+                            "list": [
+                                "발",
+                                "발",
+                                "발"
+                            ],
+                            "tags": ["발"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-book",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2026, "month": 7},
+                    "dateEnd": {"year": 2027, "month": 1},
+                    "locales": {
+                        "en": {
                             "title": "{{eJPT}}",
                             "province": "",
                             "country": "US",
                             "institution": "INE",
-                            "text": "Hope to have this certification before August 2026.",
+                            "text": "Aiming to have this certification before August 2026.",
                             "list": [
                                 "WIP"
                                 
@@ -159,7 +222,7 @@
                             "institution": "PortSwigger",
                             "text": "Completed extensive hands-on labs from the PortSwigger Web Security Academy, focusing on real-world web application vulnerabilities and exploitation techniques commonly encountered in bug bounty programs.",
                             "list": [
-                                "Completed hands-on labs covering Cross-Site Scripting (XSS), SQL Injection, authentication bypass, and access control vulnerabilities",
+                                "Completed hands on labs covering Cross Site Scripting (XSS), SQL Injection, authentication bypass, and access control vulnerabilities",
                                 "Practiced exploitation of CSRF, file upload vulnerabilities, and server-side template injection",
                                 "Analyzed insecure session management and privilege escalation scenarios",
                                 "Learned techniques for discovering vulnerabilities using HTTP traffic analysis and manual testing",

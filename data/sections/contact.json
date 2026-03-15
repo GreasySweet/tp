@@ -39,7 +39,7 @@
             },
             "locales": {
                 "en": {
-                    "contact_thank_you_title": "{{Thanks}} for the contact!",
+                    "contact_thank_you_title": "{{Thanks}} for contacting!",
                     "contact_thank_you_body": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
                     "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
                     "title": "Send me a {{message}}"
