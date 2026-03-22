@@ -152,7 +152,7 @@
                         "links": [
                             {"href": "https://app.intigriti.com/profile/greasysweet", "tooltipString": "", "faIcon": "fa-solid fa-link"}
                         ],
-                        "screenshots": [ "images/pictures/high_severity.png", "images/pictures/medium_severity.png"
+                        "screenshots": [ "images/pictures/high_severity.png"
 
                         ],
                         "screenshotsAspectRatio": "16:9",
