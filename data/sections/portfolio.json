@@ -141,6 +141,45 @@
                             "tags": ["랫"]
                         }
                     }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_profiles",
+                    "img": "/images/pictures/int.jpg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://app.intigriti.com/profile/greasysweet", "tooltipString": "", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [ "images/pictures/high_severity.png", "images/pictures/medium_severity.png"
+
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Intigriti",
+                            "text": "Intigriti Profile.",
+                            "tags": ["Intigriti"]
+                        },
+                        "es": {
+                            "title": "랫",
+                            "text": "랫",
+                            "tags": ["랫"]
+                        },
+                        "fr": {
+                            "title": "QuickDrop",
+                            "text": "랫",
+                            "tags": ["랫"]
+                        },
+                        "ko": {
+                            "title": "QuickDrop",
+                            "text": "랫",
+                            "tags": ["랫"]
+                        }
+                    }
                 }
             ]
         }
