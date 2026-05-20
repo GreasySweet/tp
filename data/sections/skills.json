@@ -194,7 +194,7 @@
                     "faIcon": "fa-solid fa-syringe",
                     "faIconColors": {"bg": "", "fill": "#339933"},
                     "date": {"year": 2025, "month": 3},
-                    "percentage": 10,
+                    "percentage": 88,
                     "locales": {
                         "en": {
                             "title": "SQL injection Labs",
@@ -218,7 +218,7 @@
                     "faIcon": "fa-solid fa-code",
                     "faIconColors": {"bg": "", "fill": "#0295c2", "fillLight": "#007396"},
                     "date": {"year": 2025, "month": 10},
-                    "percentage": 10,
+                    "percentage": 56,
                     "locales": {
                         "en": {
                             "title": "Cross-site scripting Labs",
@@ -242,7 +242,7 @@
                     "faIcon": "fa-solid fa-tachograph-digital",
                     "faIconColors": {"bg": "", "fill": "#CC0000"},
                     "date": {"year": 2025, "month": 8},
-                    "percentage": 10,
+                    "percentage": 28,
                     "locales": {
                         "en": {
                             "title": "SSTI Labs",
@@ -266,7 +266,7 @@
                     "faIcon": "fa-solid fa-shoe-prints",
                     "faIconColors": {"bg": "", "fill": "#4479A1"},
                     "date": {"year": 2025, "month": 10},
-                    "percentage": 10,
+                    "percentage": 100,
                     "locales": {
                         "en": {
                             "title": "Path traversal",
@@ -290,7 +290,7 @@
                     "faIcon": "fa-solid fa-handshake-slash",
                     "faIconColors": {"bg": "", "fill": "#2496ED"},
                     "date": {"year": 2025, "month": 4},
-                    "percentage": 10,
+                    "percentage": 35,
                     "locales": {
                         "en": {
                             "title": "Authentication Labs",
@@ -314,7 +314,7 @@
                     "faIcon": "fa-solid fa-cubes-stacked",
                     "faIconColors": {"bg": "", "fill": "#FFD700", "fillLight": "#4F5B93"},
                     "date": {"year": 2025, "month": 9},
-                    "percentage": 10,
+                    "percentage": 33,
                     "locales": {
                         "en": {
                             "title": "Business logic vulnerabilities Labs",

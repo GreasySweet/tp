@@ -1,8 +1,8 @@
 {
-    "name": "Mark Choi",
+    "name": "Greasy Sweet",
 
     "profilePictureUrl": "images/pictures/base.jpg",
-    "resumePdfUrl": "",
+    "resumePdfUrl": "images/pdf/Resume.pdf",
 
     "statusCircleVisible": true,
     "statusCircleVariant": "available",
