@@ -180,6 +180,46 @@
                             "tags": ["랫"]
                         }
                     }
+                },
+
+                {
+                    "id": 4,
+                    "categoryId": "category_reports",
+                    "img": "/images/pictures/int.jpg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "/images/pdf/Redacted_Pentest_Report.pdf", "tooltipString": "", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [ "/images/pdf/Redacted_Pentest_Report.pdf"
+
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Intigriti",
+                            "text": "Intigriti Profile.",
+                            "tags": ["Intigriti"]
+                        },
+                        "es": {
+                            "title": "랫",
+                            "text": "랫",
+                            "tags": ["랫"]
+                        },
+                        "fr": {
+                            "title": "QuickDrop",
+                            "text": "랫",
+                            "tags": ["랫"]
+                        },
+                        "ko": {
+                            "title": "QuickDrop",
+                            "text": "랫",
+                            "tags": ["랫"]
+                        }
+                    }
                 }
             ]
         }
