@@ -8,7 +8,7 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "React <strong>Portfolio</strong>",
+        "title": "<strong>Portfolio</strong>",
         "subtitle": "by Greasy Sweet",
         "logoOffset": {
             "right": 14,
@@ -75,10 +75,10 @@
     ],
 
     "consoleMessageForDevelopers": {
-        "title": "\uD83D\uDDA5️ Hey there, fellow developer!",
+        "title": "\uD83D\uDDA5️ Hey there!",
         "items": [
             {
-                "description": "This is an open-source template based on the React framework.",
+                "description": "Greasy Sweet Portfolio.",
                 "list": [],
                 "listStyle": "none"
             },
