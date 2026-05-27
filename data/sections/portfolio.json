@@ -185,24 +185,21 @@
                 {
                     "id": 4,
                     "categoryId": "category_reports",
-                    "img": "/images/pictures/int.jpg",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-file-pdf",
+                    "faIconColors": {"bg": "#d15a7c", "fill": ""},
                     "preview": {
                         "links": [
                             {"href": "/images/pdf/Redacted_Pentest_Report.pdf", "tooltipString": "", "faIcon": "fa-solid fa-link"}
-                        ],
-                        "screenshots": [ "/images/pdf/Redacted_Pentest_Report.pdf"
-
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "Intigriti",
-                            "text": "Intigriti Profile.",
-                            "tags": ["Intigriti"]
+                            "title": "Redacted Report",
+                            "text": "Redacted Pentest Report.",
+                            "tags": ["CSP Bypass", "Stored XSS"]
                         },
                         "es": {
                             "title": "랫",
